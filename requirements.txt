@@ -6,3 +6,4 @@ opencv-python
 tensorflow
 matplotlib
 scikit-learn
+ipykernel
